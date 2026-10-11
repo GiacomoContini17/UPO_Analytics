@@ -1,0 +1,11 @@
+#requirements of streamlit project for Introduction to Python
+
+matplotlib
+numpy
+pandas
+Pillow
+plotly
+scipy
+seaborn
+streamlit
+yfinance
